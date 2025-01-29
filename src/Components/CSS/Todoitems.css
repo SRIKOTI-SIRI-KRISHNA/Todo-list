@@ -1,0 +1,43 @@
+.todo-items
+{
+    display:flex;
+    justify-content: space-between;
+    padding: 16px 0px;
+    align-items: center;
+}
+body{
+    color: black;
+}
+.todo-items-container
+{
+    display: flex;
+}
+.todo-items-text
+{
+    padding-left: 16px;
+    color: black;
+    font-style: oblique;
+    font-size: 22px;
+}
+.todoitem-cross-icon{
+    cursor: pointer;
+    padding-right: 25px;
+}
+/* styles.css */
+.todoitem-cross-icon{
+    width: 20px; /* Adjust the width */
+    height: 20px; /* Adjust the height */
+  }
+.not_tick
+{
+    width: 20px; /* Adjust the width */
+    height: 20px; /* Adjust the height */
+
+}
+.tick{
+    width: 20px; /* Adjust the width */
+    height: 20px; /* Adjust the height */
+}
+.line-through{
+    text-decoration: line-through solid #adadad 3px;
+}
