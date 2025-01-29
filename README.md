@@ -5,14 +5,20 @@ A simple, user-friendly to-do list app built with Vite+React. Allows users to ad
 
 # Features
 ✅ Add, edit, and delete tasks
+
 ✅ Mark tasks as completed
+
 ✅ Local storage support
+
 ✅ Responsive design
 
 # Tech Stack
 technologies used:
+
 Vite+React (Hooks & Functional Components)
+
 CSS for styling
+
 HTML to structure and define the content of web pages
 
 # Images
