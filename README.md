@@ -1,5 +1,6 @@
 # Project Title & Description
 React To-Do List
+
 A simple, user-friendly to-do list app built with Vite+React. Allows users to add, edit, delete, and mark tasks as completed.
 
 # Features
